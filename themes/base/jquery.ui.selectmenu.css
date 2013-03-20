@@ -14,6 +14,7 @@
 	position: absolute;
 	top: 0;
 	display: none;
+	z-index: 9999;
 }
 .ui-selectmenu-menu  ul.ui-menu {
 	overflow: auto;
